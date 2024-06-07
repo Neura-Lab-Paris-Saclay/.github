@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./0.svg">
+    <img src="./profile/0.svg">
 </div>
