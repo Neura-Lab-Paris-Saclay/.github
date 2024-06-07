@@ -1,2 +1,0 @@
-# .github
-Dépôt de description
